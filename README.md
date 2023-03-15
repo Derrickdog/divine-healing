@@ -1,2 +1,2 @@
 # tarot-webpage
-https://derrickdog.github.io/tarot-webpage/
+https://derrickdog.github.io/divine-healing/
